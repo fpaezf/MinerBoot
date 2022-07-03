@@ -266,7 +266,7 @@ Partial Class settings
         Me.GPUMAXTemp.Size = New System.Drawing.Size(47, 20)
         Me.GPUMAXTemp.TabIndex = 10
         Me.GPUMAXTemp.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        Me.GPUMAXTemp.Value = New Decimal(New Integer() {79, 0, 0, 0})
+        Me.GPUMAXTemp.Value = New Decimal(New Integer() {70, 0, 0, 0})
         '
         'MaxTempReachAction
         '

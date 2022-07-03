@@ -60,9 +60,9 @@ Partial Class About
         '
         Me.Label2.Location = New System.Drawing.Point(6, 106)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(126, 15)
+        Me.Label2.Size = New System.Drawing.Size(205, 15)
         Me.Label2.TabIndex = 2
-        Me.Label2.Text = "Francesc Pàez (C) 2021"
+        Me.Label2.Text = "Francesc Pàez (C) 2021-2022"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'LinkLabel1

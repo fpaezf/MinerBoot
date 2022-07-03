@@ -1,6 +1,5 @@
 ﻿Imports System.IO
 Imports System.Net
-Imports System.Runtime.InteropServices
 Imports LibreHardwareMonitor.Hardware
 
 Public Class Form1
@@ -267,6 +266,7 @@ Public Class Form1
             IPLabel.Text = responseFromServer
         Catch error_t As Exception
             WriteLog("Error retrieving public IP address!", 1)
+            IPLabel.Text = "0.0.0.0"
         End Try
     End Sub
 
