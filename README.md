@@ -1,6 +1,6 @@
-<img src="https://i.postimg.cc/grbGQYps/minerboot.png">
+<img src="https://i.postimg.cc/mZKL9Q7T/1.png">
 
-<img src="https://i.postimg.cc/L5bNVW7K/minerboot2.png">
+<img src="https://i.postimg.cc/13QyCsWT/2.png">
 
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/> <img alt="NET" src="https://img.shields.io/badge/-Visual%20Basic-blue?style=flat&logo=.net&logoColor=white"/>
 
@@ -78,10 +78,6 @@ Para usar esta opción te recomiendo que configures tu minero para que se cierre
 
 Busca los comandos precisos para tu software de minado y agrégalos a la linea de comandos en las opciones de MinerBoot.
 
-CÓDIGO FUENTE
--------------
-En este momento no está disponible el código fuente porque quiero ajustarlo todavía más y ponerle alguna opción interesante, pero en un futuro si tengo pensado liberarlo para que se pueda modificar libremente.
-
 AGRADECIMIENTOS
 ---------------
 Quiero hacer especial mención a un Youtuber que he tenido el placer de conocer y que le ha dedicado un video a una versión anterior de este software.
@@ -89,4 +85,4 @@ Podéis ver el video en el canal de Elbo desde este enlace: https://www.youtube.
 
 SOPORTE TÉCNICO Y AYUDA
 -----------------------
-Si se te ocurre alguna mejora, te gustaría agregar alguna funcionalidad o has encontrado un error, ponte en contacto conmigo via emial en f.paez@hotmail.es y lo hablamos.
+Si se te ocurre alguna mejora, te gustaría agregar alguna funcionalidad o has encontrado un error, ponte en contacto conmigo via emial en f.paez(at)hotmail(dot)es y lo hablamos.
