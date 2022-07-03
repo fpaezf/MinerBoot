@@ -15,3 +15,22 @@ C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\HidSharp.pdb
 C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\HidSharp.xml
 C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.vbproj.CopyComplete
 C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.vbprojAssemblyReference.cache
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\MinerBoot.exe.config
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\MinerBoot.exe
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\MinerBoot.pdb
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\MinerBoot.xml
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\HidSharp.dll
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\LibreHardwareMonitorLib.dll
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\HidSharp.pdb
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\HidSharp.xml
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.vbproj.AssemblyReference.cache
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.About.resources
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.Form1.resources
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.Resources.resources
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.settings.resources
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.vbproj.GenerateResource.cache
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.vbproj.CopyComplete
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.exe
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.xml
+D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.pdb
