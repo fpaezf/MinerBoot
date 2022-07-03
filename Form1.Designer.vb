@@ -147,20 +147,20 @@ Partial Class Form1
         '
         Me.StartMiningToolStripMenuItem.Image = CType(resources.GetObject("StartMiningToolStripMenuItem.Image"), System.Drawing.Image)
         Me.StartMiningToolStripMenuItem.Name = "StartMiningToolStripMenuItem"
-        Me.StartMiningToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
+        Me.StartMiningToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.StartMiningToolStripMenuItem.Text = "&Start Mining"
         '
         'StopMiningToolStripMenuItem
         '
         Me.StopMiningToolStripMenuItem.Image = CType(resources.GetObject("StopMiningToolStripMenuItem.Image"), System.Drawing.Image)
         Me.StopMiningToolStripMenuItem.Name = "StopMiningToolStripMenuItem"
-        Me.StopMiningToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
+        Me.StopMiningToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.StopMiningToolStripMenuItem.Text = "&Stop mining"
         '
         'ToolStripSeparator1
         '
         Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
-        Me.ToolStripSeparator1.Size = New System.Drawing.Size(146, 6)
+        Me.ToolStripSeparator1.Size = New System.Drawing.Size(177, 6)
         '
         'AlwaysOnTopToolStripMenuItem
         '
@@ -168,19 +168,19 @@ Partial Class Form1
         Me.AlwaysOnTopToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked
         Me.AlwaysOnTopToolStripMenuItem.Image = CType(resources.GetObject("AlwaysOnTopToolStripMenuItem.Image"), System.Drawing.Image)
         Me.AlwaysOnTopToolStripMenuItem.Name = "AlwaysOnTopToolStripMenuItem"
-        Me.AlwaysOnTopToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
+        Me.AlwaysOnTopToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.AlwaysOnTopToolStripMenuItem.Text = "&Always on top"
         '
         'ToolStripSeparator2
         '
         Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
-        Me.ToolStripSeparator2.Size = New System.Drawing.Size(146, 6)
+        Me.ToolStripSeparator2.Size = New System.Drawing.Size(177, 6)
         '
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Image = CType(resources.GetObject("ExitToolStripMenuItem.Image"), System.Drawing.Image)
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.ExitToolStripMenuItem.Text = "&Exit"
         '
         'SettingsToolStripMenuItem
@@ -204,14 +204,14 @@ Partial Class Form1
         Me.MiningToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked
         Me.MiningToolStripMenuItem.Image = CType(resources.GetObject("MiningToolStripMenuItem.Image"), System.Drawing.Image)
         Me.MiningToolStripMenuItem.Name = "MiningToolStripMenuItem"
-        Me.MiningToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
+        Me.MiningToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.MiningToolStripMenuItem.Text = "&Mining"
         '
         'GamingToolStripMenuItem
         '
         Me.GamingToolStripMenuItem.Image = CType(resources.GetObject("GamingToolStripMenuItem.Image"), System.Drawing.Image)
         Me.GamingToolStripMenuItem.Name = "GamingToolStripMenuItem"
-        Me.GamingToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
+        Me.GamingToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.GamingToolStripMenuItem.Text = "&Gaming"
         '
         'WatchDogMenu
@@ -233,21 +233,21 @@ Partial Class Form1
         '
         Me.GitHubPageToolStripMenuItem.Image = CType(resources.GetObject("GitHubPageToolStripMenuItem.Image"), System.Drawing.Image)
         Me.GitHubPageToolStripMenuItem.Name = "GitHubPageToolStripMenuItem"
-        Me.GitHubPageToolStripMenuItem.Size = New System.Drawing.Size(176, 22)
+        Me.GitHubPageToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.GitHubPageToolStripMenuItem.Text = "&GitHub page"
         '
         'DonateWithPayPalToolStripMenuItem
         '
         Me.DonateWithPayPalToolStripMenuItem.Image = CType(resources.GetObject("DonateWithPayPalToolStripMenuItem.Image"), System.Drawing.Image)
         Me.DonateWithPayPalToolStripMenuItem.Name = "DonateWithPayPalToolStripMenuItem"
-        Me.DonateWithPayPalToolStripMenuItem.Size = New System.Drawing.Size(176, 22)
+        Me.DonateWithPayPalToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.DonateWithPayPalToolStripMenuItem.Text = "&Donate with PayPal"
         '
         'AboutMinerBootToolStripMenuItem
         '
         Me.AboutMinerBootToolStripMenuItem.Image = CType(resources.GetObject("AboutMinerBootToolStripMenuItem.Image"), System.Drawing.Image)
         Me.AboutMinerBootToolStripMenuItem.Name = "AboutMinerBootToolStripMenuItem"
-        Me.AboutMinerBootToolStripMenuItem.Size = New System.Drawing.Size(176, 22)
+        Me.AboutMinerBootToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.AboutMinerBootToolStripMenuItem.Text = "&About MinerBoot"
         '
         'NotifyIcon1
@@ -283,7 +283,7 @@ Partial Class Form1
         '
         'WatchDog
         '
-        Me.WatchDog.Interval = 5000
+        Me.WatchDog.Interval = 3000
         '
         'ToolTip1
         '
@@ -505,7 +505,7 @@ Partial Class Form1
         Me.MinimumSize = New System.Drawing.Size(435, 325)
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "MinerBoot v0.14 (BETA)"
+        Me.Text = "MinerBoot v0.9 (BETA)"
         Me.TopMost = True
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
