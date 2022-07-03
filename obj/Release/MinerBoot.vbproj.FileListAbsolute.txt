@@ -1,0 +1,57 @@
+C:\Users\Francesc\Desktop\MinerBoot\bin\Release\MinerBoot.exe.config
+C:\Users\Francesc\Desktop\MinerBoot\bin\Release\MinerBoot.exe
+C:\Users\Francesc\Desktop\MinerBoot\bin\Release\MinerBoot.pdb
+C:\Users\Francesc\Desktop\MinerBoot\bin\Release\MinerBoot.xml
+C:\Users\Francesc\Desktop\MinerBoot\bin\Release\HidSharp.dll
+C:\Users\Francesc\Desktop\MinerBoot\bin\Release\LibreHardwareMonitorLib.dll
+C:\Users\Francesc\Desktop\MinerBoot\bin\Release\HidSharp.pdb
+C:\Users\Francesc\Desktop\MinerBoot\bin\Release\HidSharp.xml
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.Form1.resources
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.Resources.resources
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.vbproj.GenerateResource.cache
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.vbproj.CoreCompileInputs.cache
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.vbproj.CopyComplete
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.exe
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.xml
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.pdb
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.settings.resources
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.About.resources
+C:\Users\Francesc\Desktop\MinerBoot\obj\Release\MinerBoot.vbprojAssemblyReference.cache
+E:\Visual Basic\Por acabar\MinerBoot\bin\Release\MinerBoot.exe.config
+E:\Visual Basic\Por acabar\MinerBoot\bin\Release\MinerBoot.exe
+E:\Visual Basic\Por acabar\MinerBoot\bin\Release\MinerBoot.pdb
+E:\Visual Basic\Por acabar\MinerBoot\bin\Release\MinerBoot.xml
+E:\Visual Basic\Por acabar\MinerBoot\bin\Release\HidSharp.dll
+E:\Visual Basic\Por acabar\MinerBoot\bin\Release\LibreHardwareMonitorLib.dll
+E:\Visual Basic\Por acabar\MinerBoot\bin\Release\HidSharp.pdb
+E:\Visual Basic\Por acabar\MinerBoot\bin\Release\HidSharp.xml
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.About.resources
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.Form1.resources
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.Resources.resources
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.settings.resources
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.vbproj.GenerateResource.cache
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.vbproj.CopyComplete
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.exe
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.xml
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.pdb
+E:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.vbprojAssemblyReference.cache
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.About.resources
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.Form1.resources
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.Resources.resources
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.settings.resources
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.vbproj.GenerateResource.cache
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.exe
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.xml
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.pdb
+D:\Visual Basic\Por acabar\MinerBoot\bin\Release\MinerBoot.exe.config
+D:\Visual Basic\Por acabar\MinerBoot\bin\Release\MinerBoot.exe
+D:\Visual Basic\Por acabar\MinerBoot\bin\Release\MinerBoot.pdb
+D:\Visual Basic\Por acabar\MinerBoot\bin\Release\MinerBoot.xml
+D:\Visual Basic\Por acabar\MinerBoot\bin\Release\HidSharp.dll
+D:\Visual Basic\Por acabar\MinerBoot\bin\Release\LibreHardwareMonitorLib.dll
+D:\Visual Basic\Por acabar\MinerBoot\bin\Release\HidSharp.pdb
+D:\Visual Basic\Por acabar\MinerBoot\bin\Release\HidSharp.xml
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.vbproj.CopyComplete
+D:\Visual Basic\Por acabar\MinerBoot\obj\Release\MinerBoot.vbproj.AssemblyReference.cache

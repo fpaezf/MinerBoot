@@ -1,0 +1,17 @@
+C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\MinerBoot.exe.config
+C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\MinerBoot.exe
+C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\MinerBoot.pdb
+C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\MinerBoot.xml
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.Form1.resources
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.Resources.resources
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.vbproj.GenerateResource.cache
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.vbproj.CoreCompileInputs.cache
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.exe
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.xml
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.pdb
+C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\HidSharp.dll
+C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\LibreHardwareMonitorLib.dll
+C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\HidSharp.pdb
+C:\Users\Francesc\Desktop\MinerBoot\bin\Debug\HidSharp.xml
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.vbproj.CopyComplete
+C:\Users\Francesc\Desktop\MinerBoot\obj\Debug\MinerBoot.vbprojAssemblyReference.cache
