@@ -102,7 +102,7 @@ Partial Class Form1
         Me.ListView1.LargeImageList = Me.ImageList1
         Me.ListView1.Location = New System.Drawing.Point(3, 3)
         Me.ListView1.Name = "ListView1"
-        Me.ListView1.Size = New System.Drawing.Size(395, 277)
+        Me.ListView1.Size = New System.Drawing.Size(395, 204)
         Me.ListView1.SmallImageList = Me.ImageList1
         Me.ListView1.TabIndex = 16
         Me.ListView1.UseCompatibleStateImageBehavior = False
@@ -306,7 +306,7 @@ Partial Class Form1
         Me.ListView2.LargeImageList = Me.ImageList2
         Me.ListView2.Location = New System.Drawing.Point(3, 3)
         Me.ListView2.Name = "ListView2"
-        Me.ListView2.Size = New System.Drawing.Size(395, 277)
+        Me.ListView2.Size = New System.Drawing.Size(395, 204)
         Me.ListView2.SmallImageList = Me.ImageList2
         Me.ListView2.TabIndex = 19
         Me.ListView2.UseCompatibleStateImageBehavior = False
@@ -343,7 +343,7 @@ Partial Class Form1
         'StatusStrip1
         '
         Me.StatusStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CPUName, Me.ToolStripStatusLabel2, Me.IPLabel, Me.ToolStripStatusLabel1, Me.GPUMaxTempLabel})
-        Me.StatusStrip1.Location = New System.Drawing.Point(0, 410)
+        Me.StatusStrip1.Location = New System.Drawing.Point(0, 337)
         Me.StatusStrip1.Name = "StatusStrip1"
         Me.StatusStrip1.ShowItemToolTips = True
         Me.StatusStrip1.Size = New System.Drawing.Size(419, 22)
@@ -399,7 +399,7 @@ Partial Class Form1
         Me.TabControl1.Location = New System.Drawing.Point(6, 96)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(408, 310)
+        Me.TabControl1.Size = New System.Drawing.Size(408, 237)
         Me.TabControl1.TabIndex = 23
         '
         'TabPage1
@@ -409,7 +409,7 @@ Partial Class Form1
         Me.TabPage1.Location = New System.Drawing.Point(4, 23)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage1.Size = New System.Drawing.Size(400, 283)
+        Me.TabPage1.Size = New System.Drawing.Size(400, 210)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "GPU Devices"
         Me.TabPage1.UseVisualStyleBackColor = True
@@ -421,7 +421,7 @@ Partial Class Form1
         Me.TabPage2.Location = New System.Drawing.Point(4, 23)
         Me.TabPage2.Name = "TabPage2"
         Me.TabPage2.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage2.Size = New System.Drawing.Size(400, 283)
+        Me.TabPage2.Size = New System.Drawing.Size(400, 210)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "Application Events"
         Me.TabPage2.UseVisualStyleBackColor = True
@@ -494,7 +494,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(419, 432)
+        Me.ClientSize = New System.Drawing.Size(419, 359)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.TabControl1)
         Me.Controls.Add(Me.StatusStrip1)
@@ -502,6 +502,7 @@ Partial Class Form1
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MainMenuStrip = Me.MenuStrip1
+        Me.MaximizeBox = False
         Me.MinimumSize = New System.Drawing.Size(435, 325)
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen

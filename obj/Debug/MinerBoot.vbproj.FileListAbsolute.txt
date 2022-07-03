@@ -23,7 +23,6 @@ D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\HidSharp.dll
 D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\LibreHardwareMonitorLib.dll
 D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\HidSharp.pdb
 D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\bin\Debug\HidSharp.xml
-D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.vbproj.AssemblyReference.cache
 D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.About.resources
 D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.Form1.resources
 D:\Visual Basic\Por acabar\MinerBoot\MinerBoot-GPU\obj\Debug\MinerBoot.Resources.resources
