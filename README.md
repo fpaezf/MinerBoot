@@ -29,7 +29,7 @@ En la configuración de la aplicación podemos ajustar la temperatura límite pa
 y la forma de finalizar el proceso del minero (forzado o no), así como otras muchas opciones que se van ampliando con cada nueva versión del programa. 
 
 
-¿EN QUE SE DIFERENCIAN LOS DOS MÉTODOS DE APAGADO DEL MIENRO?
+¿EN QUE SE DIFERENCIAN LOS DOS MÉTODOS DE APAGADO DEL MINERO?
 -------------------------------------------------------------
 - Normal  -> Process.CloseMainWindow(): El proceso se cierra igual que si apretas el botón X de la ventana.
 
@@ -72,9 +72,9 @@ Para usar esta opción te recomiendo que configures tu minero para que se cierre
 
 **EJEMPLO:** El software de minado T-REX tiene algunos comandos para esto cómo:
 
-**--exit-on-cuda-error**
-**--exit-on-connection-lost**
-**--exit-on-high-power**
+**--exit-on-cuda-error**<br>
+**--exit-on-connection-lost**<br>
+**--exit-on-high-power**<br>
 
 Busca los comandos precisos para tu software de minado y agrégalos a la linea de comandos en las opciones de MinerBoot.
 
